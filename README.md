@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- ![Logo Image](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/blob/main/pic/img.svg) -->
-
 # 遍玨体项目（Planschrift Project）
 [![提交](https://img.shields.io/github/last-commit/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project?color=critical&label=最近提交&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI0U2NiI+PHBhdGggZD0iTS40IDEuOSAxLjYgMy4xQTggOCA5MCAxMTAgOSAuOC44IDkwIDAxMS41IDkgNi41IDYuNSA5MCAxMDIuNyA0LjFMNC4xIDUuNUEuMy4zIDkwIDAxMy45IDZILjNBLjMuMyA5MCAwMTAgNS44VjIuMWEuMy4zIDkwIDAxLjQtLjJaTTcuOCA0YS44LjggOTAgMDEuOC44djNsMiAuOEEuOC44IDkwIDAxMTAgMTBMNy41IDlBLjguOCA5MCAwMTcgOC4zVjQuOEEuOC44IDkwIDAxNy44IDRaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/commits/main)
 [![下载](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project?color=critical&label=最新版本&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgMyAxOCAxOCI+PHBhdGggc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6I0U2NjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2Utd2lkdGg6MiIgZD0iTTEwIDdhMiAyIDAgMDEyLTJoNmEyIDIgMCAwMTIgMnYxMGEyIDIgMCAwMS0yIDJoLTZhMiAyIDAgMDEtMi0yek03IDd2MTBNNCA4djgiLz48L3N2Zz4=)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/releases/latest)
@@ -17,6 +15,8 @@
 
 ## 收录范围
 本字体的初步打算为主要支援扩展B区至扩展J区的全部汉字，但目前缺少扩展J区，其他区块有零星的字符。
+
+![Image](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/blob/main/pic/600x400.svg)
 
 > [!WARNING]
 >
