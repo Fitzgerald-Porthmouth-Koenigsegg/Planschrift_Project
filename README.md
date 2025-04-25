@@ -2,8 +2,8 @@
 
 # 遍玨体项目（Planschrift Project）
 [![提交](https://img.shields.io/github/last-commit/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project?color=critical&label=最近提交&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI0U2NiI+PHBhdGggZD0iTS40IDEuOSAxLjYgMy4xQTggOCA5MCAxMTAgOSAuOC44IDkwIDAxMS41IDkgNi41IDYuNSA5MCAxMDIuNyA0LjFMNC4xIDUuNUEuMy4zIDkwIDAxMy45IDZILjNBLjMuMyA5MCAwMTAgNS44VjIuMWEuMy4zIDkwIDAxLjQtLjJaTTcuOCA0YS44LjggOTAgMDEuOC44djNsMiAuOEEuOC44IDkwIDAxMTAgMTBMNy41IDlBLjguOCA5MCAwMTcgOC4zVjQuOEEuOC44IDkwIDAxNy44IDRaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/commits/main)
-[![下载](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project?color=critical&label=最新版本&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgMyAxOCAxOCI+PHBhdGggc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6I0U2NjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2Utd2lkdGg6MiIgZD0iTTEwIDdhMiAyIDAgMDEyLTJoNmEyIDIgMCAwMTIgMnYxMGEyIDIgMCAwMS0yIDJoLTZhMiAyIDAgMDEtMi0yek03IDd2MTBNNCA4djgiLz48L3N2Zz4=)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/releases/latest)
-[![总下载](https://img.shields.io/github/downloads/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/total.svg?color=critical&label=总下载量&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQyIDcuNDIiPjxjaXJjbGUgY3g9IjMuNyIgY3k9IjMuNyIgcj0iMy43IiBmaWxsPSIjZDY2Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuMiAxLjZjLjguMiAxLjQuOSAxLjQgMS42LjQgMCAuOC41LjggMS4xUzYgNS40IDUuNiA1LjRIMmMtLjQgMC0uOC0uNS0uOC0xLjFzLjMtMS4xLjgtMS4xYzAtLjcuNi0xLjQgMS40LTEuNlYzLjJIMi42TDMuOCA0LjcgNC45IDMuMkg0LjJaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/releases/latest)
+[![最新版本](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project?color=critical&label=最新版本&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgMyAxOCAxOCI+PHBhdGggc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6I0U2NjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2Utd2lkdGg6MiIgZD0iTTEwIDdhMiAyIDAgMDEyLTJoNmEyIDIgMCAwMTIgMnYxMGEyIDIgMCAwMS0yIDJoLTZhMiAyIDAgMDEtMi0yek03IDd2MTBNNCA4djgiLz48L3N2Zz4=)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/releases/latest)
+[![总下载量](https://img.shields.io/github/downloads/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/total.svg?color=critical&label=总下载量&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQyIDcuNDIiPjxjaXJjbGUgY3g9IjMuNyIgY3k9IjMuNyIgcj0iMy43IiBmaWxsPSIjZDY2Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuMiAxLjZjLjguMiAxLjQuOSAxLjQgMS42LjQgMCAuOC41LjggMS4xUzYgNS40IDUuNiA1LjRIMmMtLjQgMC0uOC0uNS0uOC0xLjFzLjMtMS4xLjgtMS4xYzAtLjcuNi0xLjQgMS40LTEuNlYzLjJIMi42TDMuOCA0LjcgNC45IDMuMkg0LjJaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/releases/latest)
 [![License](https://img.shields.io/static/v1?label=使用协议&message=SIL%20Open%20Font%20License&color=critical&logo=creative%20commons)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/blob/main/LICENSE)
 
 [![星标](https://img.shields.io/github/stars/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project?label=星标数&color=critical&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4IDgiPjxwYXRoIGZpbGw9IiNmZDAiIGQ9Im00IDAgMSAyLjYgMi43LjMtMi4xIDEuOC44IDNMNCA2LjQgMS42IDcuN2wuOC0zTC4zIDIuOSAzIDIuNnoiLz48L3N2Zz4=)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project)
@@ -16,7 +16,7 @@
 ## 收录范围
 本字体的初步打算为主要支援扩展B区至扩展J区的全部汉字，但目前缺少扩展J区，其他区块有零星的字符。
 
-![Image](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/blob/main/pic/600x400.svg)
+<div align="center"><img src="./pic/600x400.svg" alt="Image"/></div>
 
 > [!WARNING]
 >
