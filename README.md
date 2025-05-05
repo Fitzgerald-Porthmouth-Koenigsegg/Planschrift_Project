@@ -70,13 +70,12 @@
 1. 作者并不是专业的字体设计师，所以会导致字体的字形结构可能不甚美观，补字与原版相比可能略有违和感。此外由于时间与精力有限，项目并没有多余的时间精修，部分汉字的部件拼接会很生硬，因此作者无法保证字体本身数据的准确性及预期呈现效果在您的设备是否能够完美复现，作者不对本字体作任何明示或暗示的保证，亦不承担您使用该字体所产生的任何索赔、损害或可归责事由而来的任何责任。
 2. 本项目参考了其他工具或开源字体项目，主要包括：
     - [思源黑体](https://github.com/adobe-fonts/source-han-sans)。
-    - [上地宏一](https://twitter.com/kamichikoichi)所开发的[字形维基](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)及 KAGE Engine。
-    - [秋空黑体](https://github.com/ChiuMing-Neko/ChiuKongGothic)。
-    - [魏安（Andrew West）](https://twitter.com/BabelStone)所开发的 [BabelStone Han（巴别宋）](https://www.babelstone.co.uk/Fonts/index.html)。
     - [白易](https://github.com/yi-bai)所开发的[字统网](https://zi.tools)。
     - [Unicode官方码表文件](https://www.unicode.org/charts/)。
     - [Unihan数据库](https://www.unicode.org/Public/16.0.0/ucd/Unihan.zip)。
     - [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)所开发的[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project)。
+    - [尚古黑体](https://github.com/GuiWonder/Shanggu)。
+    - [纳米老宋](https://github.com/Hansha2011/NanoOldSong)。
 
 ## 关于「遍宇宙家族」（Planiverse）
 该字体家族由 Fitzgerald 在 2023 年 12 月创设，目前涵盖了以下的几个子字体项目：
@@ -92,11 +91,13 @@
     - **项目状态**：已创设项目本体，但未创建项目主页，项目名称暂定。
 6. **Plantsing Project（遍擎体项目）**：基于武英殿本《康熙字典》，对中日韩越统一表意文字扩展区进行字形补充的项目，其字符收录范围暂定为与遍黑体项目拉齐。
     - **项目状态**：未创设项目本体和项目主页。
-7. **Planhangul Project（遍训体项目）**：基于思源黑体，但以汉字的形式对谚文进行字形制作的项目，其字符收录范围暂定为基本谚文和扩展谚文。
+7. **Plangul Project（遍训体项目）**：基于思源黑体，但以汉字的形式对谚文进行字形制作的项目，其字符收录范围暂定为基本谚文和扩展谚文。
     - **项目状态**：未创设项目本体和项目主页，项目名称暂定。
-8. **Planfixibit Project（遍缮体项目）**：基于 [Fixedsys Excelsior](https://github.com/kika/fixedsys) ，跟进最新版本的 Unicode ，并进行字符补充的项目。
+8. **Planfixibit Project（遍缮体项目）**：基于[Fixedsys Excelsior](https://github.com/kika/fixedsys)，跟进最新版本的Unicode，并进行字符补充的项目。
+    - **项目状态**：未创设项目本体和项目主页，项目名称暂定。
+9. **Plantone Project（遍磊体项目）**：基于《开成石经》，对中日韩越统一表意文字扩展区进行字形补充的项目。
     - **项目状态**：未创设项目本体和项目主页，项目名称暂定。
 > [!WARNING]
 >
-> 1. 严格意义上来说，遍象体项目和遍缮体项目不符合收录进「遍宇宙家族」的要求，但出于方便考虑，仍然将这两个项目纳入进该家族中。
-> 2. 遍象体项目、遍擎体项目、遍缮体项目疑似容易产生版权争端，是否能够存活亟待商榷。
+> 1. 严格意义上来说，遍象体项目、遍缮体项目、遍训体项目不符合收录进「遍宇宙家族」的要求，但出于方便考虑，仍然将这三个项目纳入进该家族中。
+> 2. 遍象体项目疑似容易产生版权争端。
