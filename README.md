@@ -16,10 +16,10 @@
 <br/>
 
 <a href="https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/releases/latest">
-  <img src="https://img.shields.io/github/downloads/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/total?style=for-the-badge&logo=abdownloadmanager&logoColor=fff" alt="Github Downloads">
+  <img src="https://img.shields.io/github/downloads/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/total?style=for-the-badge&logo=abdownloadmanager&logoColor=fff" alt="Github Downloads">
 </a>
 <a href="https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/releases/latest">
-  <img src="https://img.shields.io/github/v/release/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?style=for-the-badge&color=brightgreen&logo=github" alt="Version">
+  <img src="https://img.shields.io/github/v/release/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project?style=for-the-badge&color=brightgreen&logo=github" alt="Version">
 </a>
 <a href="https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/actions">
   <img src="https://img.shields.io/github/actions/workflow/status/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/release-packaging.yml?style=for-the-badge&logo=condaforge" alt="Github Action">
@@ -38,9 +38,6 @@
 </a>
 <a href="https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project/blob/main/LICENSE-MIT.txt">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MIT%20License&color=green&logo=opensourceinitiative" alt="MIT LICENSE">
-</a>
-<a href="https://www.bilibili.com/video/BV1Dr4y1V7b7">
-  <img src="https://img.shields.io/badge/Video%20introduction-00a1d6?style=for-the-badge&logo=bilibili&logoColor=ffffff" alt="Video introduction">
 </a>
 
 <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=HvSdPx6z78suzTz51M3xGe-gENeaa1yc&authKey=eHjDZI54yDVbhyFjQqA2ImtV35LFy%2Fit8EuAzVDscVPcACE23L0hT314LiU9ey2%2F&noverify=0&group_code=1135661191">
@@ -97,6 +94,8 @@
 - Twitter: https://twitter.com/Fitzgerald_P_K_/
 - 邮箱: 374601620@qq.com（备用邮箱：fitzgeraldkoenigsegg@gmail.com）
 - QQ: 374601620
+
+<img src="https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/documentation/samples/1650383987393.svg" alt="Sponsor Image"/>
 
 ## 其他说明
 1. 作者并不是专业的字体设计师，所以会导致字体的字形结构可能不甚美观，补字与原版相比可能略有违和感。此外由于时间与精力有限，项目并没有多余的时间精修，部分汉字的部件拼接会很生硬，因此作者无法保证字体本身数据的准确性及预期呈现效果在您的设备是否能够完美复现，作者不对本字体作任何明示或暗示的保证，亦不承担您使用该字体所产生的任何索赔、损害或可归责事由而来的任何责任。

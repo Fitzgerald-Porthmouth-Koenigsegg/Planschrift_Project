@@ -22,7 +22,7 @@ def get_planschrift_config():
         "32bit": r"SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink"
     }
 
-    target_fonts = [
+    append_fonts = [
         "Arial",
         "Batang",
         "BatangChe",
@@ -78,14 +78,7 @@ def get_planschrift_config():
         "微软雅黑 Bold",
     ]
 
-    append_fonts = {
-        "Microsoft Sans Serif",
-        "Segoe UI Semibold",
-        "Segoe UI Semilight", 
-        "Segoe UI Bold",
-        "Segoe UI Light",
-        "Segoe UI"
-    }
+    target_fonts = list(append_fonts)
 
     planschrift_entries = [
         "PlanschriftP1-Regular.ttf,Planschrift P1",
