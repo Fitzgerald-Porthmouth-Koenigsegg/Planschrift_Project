@@ -24,8 +24,8 @@ jobs:
       version: ${{ steps.set_vars.outputs.version }}
       font_name: ${{ steps.set_vars.outputs.font_name }}
     steps:
-      - name: 签出代码 / Checkout code
-        uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v7
         with:
           fetch-depth: 1
 
@@ -53,12 +53,12 @@ jobs:
       FONT_NAME: ${{ needs.prepare.outputs.font_name }}
       PKG: Static
     steps:
-      - name: 签出代码 / Checkout code
-        uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v7
         with:
           fetch-depth: 1
 
-      - name: 准备打包目录 / Prepare package dir
+      - name: Prepare package dir
         shell: bash
         run: |
           set -euo pipefail
@@ -78,17 +78,17 @@ jobs:
           7z a -t7z -mx=9 "${base}.7z" "$base"
           ls -lh "${base}."*
 
-      - name: 上传工件 (手动运行) / Upload artifact (manual run)
+      - name: Upload artifact (manual run)
         if: github.event_name == 'workflow_dispatch'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: ${{ env.FONT_NAME }}-Static-${{ env.VERSION }}.7z
           path: dist/${{ env.FONT_NAME }}-Static-${{ env.VERSION }}.7z
           retention-days: 7
 
-      - name: 上传到发行版 / Upload to Release
+      - name: Upload to Release
         if: startsWith(github.ref, 'refs/tags/')
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v3
         with:
           files: |
             dist/${{ env.FONT_NAME }}-Static-${{ env.VERSION }}.7z
@@ -105,12 +105,12 @@ jobs:
       FONT_NAME: ${{ needs.prepare.outputs.font_name }}
       REPO: ${{ github.repository }}
     steps:
-      - name: 生成下载链接 / Generate download links
+      - name: Generate download links
         id: generate_links
         run: |
           set -euo pipefail
           BASE_URL="https://github.com/${REPO}/releases/download/${VERSION}"
-          table="### 下载链接\n\n| Package | 7z | zip |\n| -- | -- | -- |"
+          table="### 下载链接 / Downloads\n\n| Package | 7z | zip |\n| -- | -- | -- |"
           pkg=Static
           table+=$'\n'"| $pkg | [📦 Download](${BASE_URL}/${FONT_NAME}-$pkg-$VERSION.7z) | [📦 Download](${BASE_URL}/${FONT_NAME}-$pkg-$VERSION.zip) |"
           echo -e "$table"
@@ -118,7 +118,7 @@ jobs:
           echo -e "$table" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: 更新发行版描述 / Update release description
+      - name: Update release description
         run: |
           current_notes=$(gh release view "$VERSION" --json body --jq '.body')
           new_notes="${current_notes}"$'\n\n'"${{ steps.generate_links.outputs.links }}"
